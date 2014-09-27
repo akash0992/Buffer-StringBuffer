@@ -7,10 +7,8 @@ Getting Started with the Strap Metrics Tizen SDK for Android Companion Apps
                 <uses-permission android:name="android.permission.INTERNET"/>
 
 There are 2 approaches to use Strap Metrics in your Tizen Code:
-
-		a) Approach 1- In this approach Strap Metrics handle most of the 		provider side services and the developer can override methods 			accordingly.
-		b) Approach 2 – In this approach the developer has to write most of 
-		the provider side services and can directly use Strap Metrics 			methods. 
+a) Approach 1- In this approach Strap Metrics handle most of the provider side services and the developer can override methods accordingly.
+b) Approach 2 – In this approach the developer has to write most of the provider side services and can directly use Strap Metrics methods. 
 
 Approach 1:
 
